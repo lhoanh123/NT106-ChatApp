@@ -1,0 +1,182 @@
+D:\New folder\server\server\obj\Debug\server.csproj.AssemblyReference.cache
+D:\New folder\server\server\obj\Debug\server.csproj.SuggestedBindingRedirects.cache
+D:\New folder\server\server\obj\Debug\server.Properties.Resources.resources
+D:\New folder\server\server\obj\Debug\server.csproj.GenerateResource.cache
+D:\New folder\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+D:\New folder\server\server\obj\Debug\server.Form1.resources
+D:\New folder\server\server\bin\Debug\Database1.mdf
+D:\New folder\server\server\bin\Debug\Database1_log.ldf
+D:\New folder\server\server\bin\Debug\server.exe.config
+D:\New folder\server\server\bin\Debug\server.exe
+D:\New folder\server\server\bin\Debug\server.pdb
+D:\New folder\server\server\obj\Debug\server.exe
+D:\New folder\server\server\obj\Debug\server.pdb
+D:\New folder\chatApp\server\server\bin\Debug\Database1.mdf
+D:\New folder\chatApp\server\server\bin\Debug\Database1_log.ldf
+D:\New folder\chatApp\server\server\bin\Debug\server.exe.config
+D:\New folder\chatApp\server\server\bin\Debug\server.exe
+D:\New folder\chatApp\server\server\bin\Debug\server.pdb
+D:\New folder\chatApp\server\server\obj\Debug\server.csproj.AssemblyReference.cache
+D:\New folder\chatApp\server\server\obj\Debug\server.csproj.SuggestedBindingRedirects.cache
+D:\New folder\chatApp\server\server\obj\Debug\server.Form1.resources
+D:\New folder\chatApp\server\server\obj\Debug\server.Properties.Resources.resources
+D:\New folder\chatApp\server\server\obj\Debug\server.csproj.GenerateResource.cache
+D:\New folder\chatApp\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+D:\New folder\chatApp\server\server\obj\Debug\server.exe
+D:\New folder\chatApp\server\server\obj\Debug\server.pdb
+D:\2\NT106\project\chat-app-my\chatApp\chatApp\server\server\bin\Debug\Database1.mdf
+D:\2\NT106\project\chat-app-my\chatApp\chatApp\server\server\bin\Debug\Database1_log.ldf
+D:\2\NT106\project\chat-app-my\chatApp\chatApp\server\server\bin\Debug\server.exe.config
+D:\2\NT106\project\chat-app-my\chatApp\chatApp\server\server\bin\Debug\server.exe
+D:\2\NT106\project\chat-app-my\chatApp\chatApp\server\server\bin\Debug\server.pdb
+D:\2\NT106\project\chat-app-my\chatApp\chatApp\server\server\obj\Debug\server.csproj.AssemblyReference.cache
+D:\2\NT106\project\chat-app-my\chatApp\chatApp\server\server\obj\Debug\server.csproj.SuggestedBindingRedirects.cache
+D:\2\NT106\project\chat-app-my\chatApp\chatApp\server\server\obj\Debug\server.Form1.resources
+D:\2\NT106\project\chat-app-my\chatApp\chatApp\server\server\obj\Debug\server.Properties.Resources.resources
+D:\2\NT106\project\chat-app-my\chatApp\chatApp\server\server\obj\Debug\server.csproj.GenerateResource.cache
+D:\2\NT106\project\chat-app-my\chatApp\chatApp\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+D:\2\NT106\project\chat-app-my\chatApp\chatApp\server\server\obj\Debug\server.exe
+D:\2\NT106\project\chat-app-my\chatApp\chatApp\server\server\obj\Debug\server.pdb
+D:\2\NT106\project\chat-app-my\chatApp\server\server\bin\Debug\Database1.mdf
+D:\2\NT106\project\chat-app-my\chatApp\server\server\bin\Debug\Database1_log.ldf
+D:\2\NT106\project\chat-app-my\chatApp\server\server\bin\Debug\server.exe.config
+D:\2\NT106\project\chat-app-my\chatApp\server\server\bin\Debug\server.exe
+D:\2\NT106\project\chat-app-my\chatApp\server\server\bin\Debug\server.pdb
+D:\2\NT106\project\chat-app-my\chatApp\server\server\obj\Debug\server.csproj.AssemblyReference.cache
+D:\2\NT106\project\chat-app-my\chatApp\server\server\obj\Debug\server.csproj.SuggestedBindingRedirects.cache
+D:\2\NT106\project\chat-app-my\chatApp\server\server\obj\Debug\server.Form1.resources
+D:\2\NT106\project\chat-app-my\chatApp\server\server\obj\Debug\server.Properties.Resources.resources
+D:\2\NT106\project\chat-app-my\chatApp\server\server\obj\Debug\server.csproj.GenerateResource.cache
+D:\2\NT106\project\chat-app-my\chatApp\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+D:\2\NT106\project\chat-app-my\chatApp\server\server\obj\Debug\server.exe
+D:\2\NT106\project\chat-app-my\chatApp\server\server\obj\Debug\server.pdb
+C:\Users\nguye\Downloads\chatApp\chatApp\server\server\bin\Debug\Database1.mdf
+C:\Users\nguye\Downloads\chatApp\chatApp\server\server\bin\Debug\Database1_log.ldf
+C:\Users\nguye\Downloads\chatApp\chatApp\server\server\bin\Debug\server.exe.config
+C:\Users\nguye\Downloads\chatApp\chatApp\server\server\bin\Debug\server.exe
+C:\Users\nguye\Downloads\chatApp\chatApp\server\server\bin\Debug\server.pdb
+C:\Users\nguye\Downloads\chatApp\chatApp\server\server\obj\Debug\server.csproj.AssemblyReference.cache
+C:\Users\nguye\Downloads\chatApp\chatApp\server\server\obj\Debug\server.csproj.SuggestedBindingRedirects.cache
+C:\Users\nguye\Downloads\chatApp\chatApp\server\server\obj\Debug\server.Form1.resources
+C:\Users\nguye\Downloads\chatApp\chatApp\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\nguye\Downloads\chatApp\chatApp\server\server\obj\Debug\server.csproj.GenerateResource.cache
+C:\Users\nguye\Downloads\chatApp\chatApp\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\chatApp\chatApp\server\server\obj\Debug\server.exe
+C:\Users\nguye\Downloads\chatApp\chatApp\server\server\obj\Debug\server.pdb
+D:\codeVS\MY\chatapp-1\chatApp\server\server\bin\Debug\Database1.mdf
+D:\codeVS\MY\chatapp-1\chatApp\server\server\bin\Debug\Database1_log.ldf
+D:\codeVS\MY\chatapp-1\chatApp\server\server\bin\Debug\server.exe.config
+D:\codeVS\MY\chatapp-1\chatApp\server\server\bin\Debug\server.exe
+D:\codeVS\MY\chatapp-1\chatApp\server\server\bin\Debug\server.pdb
+D:\codeVS\MY\chatapp-1\chatApp\server\server\obj\Debug\server.csproj.AssemblyReference.cache
+D:\codeVS\MY\chatapp-1\chatApp\server\server\obj\Debug\server.csproj.SuggestedBindingRedirects.cache
+D:\codeVS\MY\chatapp-1\chatApp\server\server\obj\Debug\server.Form1.resources
+D:\codeVS\MY\chatapp-1\chatApp\server\server\obj\Debug\server.Properties.Resources.resources
+D:\codeVS\MY\chatapp-1\chatApp\server\server\obj\Debug\server.csproj.GenerateResource.cache
+D:\codeVS\MY\chatapp-1\chatApp\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+D:\codeVS\MY\chatapp-1\chatApp\server\server\obj\Debug\server.exe
+D:\codeVS\MY\chatapp-1\chatApp\server\server\obj\Debug\server.pdb
+D:\2\NT106\project\chat-app-my\chatApp_old\server\server\bin\Debug\Database1.mdf
+D:\2\NT106\project\chat-app-my\chatApp_old\server\server\bin\Debug\Database1_log.ldf
+D:\2\NT106\project\chat-app-my\chatApp_old\server\server\bin\Debug\server.exe.config
+D:\2\NT106\project\chat-app-my\chatApp_old\server\server\bin\Debug\server.exe
+D:\2\NT106\project\chat-app-my\chatApp_old\server\server\bin\Debug\server.pdb
+D:\2\NT106\project\chat-app-my\chatApp_old\server\server\obj\Debug\server.csproj.AssemblyReference.cache
+D:\2\NT106\project\chat-app-my\chatApp_old\server\server\obj\Debug\server.csproj.SuggestedBindingRedirects.cache
+D:\2\NT106\project\chat-app-my\chatApp_old\server\server\obj\Debug\server.Form1.resources
+D:\2\NT106\project\chat-app-my\chatApp_old\server\server\obj\Debug\server.Properties.Resources.resources
+D:\2\NT106\project\chat-app-my\chatApp_old\server\server\obj\Debug\server.csproj.GenerateResource.cache
+D:\2\NT106\project\chat-app-my\chatApp_old\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+D:\2\NT106\project\chat-app-my\chatApp_old\server\server\obj\Debug\server.exe
+D:\2\NT106\project\chat-app-my\chatApp_old\server\server\obj\Debug\server.pdb
+C:\Users\nguye\Downloads\chatApp_old\chatApp_old\server\server\bin\Debug\Database1.mdf
+C:\Users\nguye\Downloads\chatApp_old\chatApp_old\server\server\bin\Debug\Database1_log.ldf
+C:\Users\nguye\Downloads\chatApp_old\chatApp_old\server\server\bin\Debug\server.exe.config
+C:\Users\nguye\Downloads\chatApp_old\chatApp_old\server\server\bin\Debug\server.exe
+C:\Users\nguye\Downloads\chatApp_old\chatApp_old\server\server\bin\Debug\server.pdb
+C:\Users\nguye\Downloads\chatApp_old\chatApp_old\server\server\obj\Debug\server.csproj.AssemblyReference.cache
+C:\Users\nguye\Downloads\chatApp_old\chatApp_old\server\server\obj\Debug\server.csproj.SuggestedBindingRedirects.cache
+C:\Users\nguye\Downloads\chatApp_old\chatApp_old\server\server\obj\Debug\server.Form1.resources
+C:\Users\nguye\Downloads\chatApp_old\chatApp_old\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\nguye\Downloads\chatApp_old\chatApp_old\server\server\obj\Debug\server.csproj.GenerateResource.cache
+C:\Users\nguye\Downloads\chatApp_old\chatApp_old\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\chatApp_old\chatApp_old\server\server\obj\Debug\server.exe
+C:\Users\nguye\Downloads\chatApp_old\chatApp_old\server\server\obj\Debug\server.pdb
+D:\2\NT106\project\chat-app-my\chatApp_new\server\server\bin\Debug\Database1.mdf
+D:\2\NT106\project\chat-app-my\chatApp_new\server\server\bin\Debug\Database1_log.ldf
+D:\2\NT106\project\chat-app-my\chatApp_new\server\server\bin\Debug\server.exe.config
+D:\2\NT106\project\chat-app-my\chatApp_new\server\server\bin\Debug\server.exe
+D:\2\NT106\project\chat-app-my\chatApp_new\server\server\bin\Debug\server.pdb
+D:\2\NT106\project\chat-app-my\chatApp_new\server\server\obj\Debug\server.csproj.AssemblyReference.cache
+D:\2\NT106\project\chat-app-my\chatApp_new\server\server\obj\Debug\server.csproj.SuggestedBindingRedirects.cache
+D:\2\NT106\project\chat-app-my\chatApp_new\server\server\obj\Debug\server.Form1.resources
+D:\2\NT106\project\chat-app-my\chatApp_new\server\server\obj\Debug\server.Properties.Resources.resources
+D:\2\NT106\project\chat-app-my\chatApp_new\server\server\obj\Debug\server.csproj.GenerateResource.cache
+D:\2\NT106\project\chat-app-my\chatApp_new\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+D:\2\NT106\project\chat-app-my\chatApp_new\server\server\obj\Debug\server.exe
+D:\2\NT106\project\chat-app-my\chatApp_new\server\server\obj\Debug\server.pdb
+C:\Users\nguye\Downloads\chatApp_new (2)\chatApp_new\server\server\bin\Debug\Database1.mdf
+C:\Users\nguye\Downloads\chatApp_new (2)\chatApp_new\server\server\bin\Debug\Database1_log.ldf
+C:\Users\nguye\Downloads\chatApp_new (2)\chatApp_new\server\server\bin\Debug\server.exe.config
+C:\Users\nguye\Downloads\chatApp_new (2)\chatApp_new\server\server\bin\Debug\server.exe
+C:\Users\nguye\Downloads\chatApp_new (2)\chatApp_new\server\server\bin\Debug\server.pdb
+C:\Users\nguye\Downloads\chatApp_new (2)\chatApp_new\server\server\obj\Debug\server.csproj.AssemblyReference.cache
+C:\Users\nguye\Downloads\chatApp_new (2)\chatApp_new\server\server\obj\Debug\server.csproj.SuggestedBindingRedirects.cache
+C:\Users\nguye\Downloads\chatApp_new (2)\chatApp_new\server\server\obj\Debug\server.Form1.resources
+C:\Users\nguye\Downloads\chatApp_new (2)\chatApp_new\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\nguye\Downloads\chatApp_new (2)\chatApp_new\server\server\obj\Debug\server.csproj.GenerateResource.cache
+C:\Users\nguye\Downloads\chatApp_new (2)\chatApp_new\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\chatApp_new (2)\chatApp_new\server\server\obj\Debug\server.exe
+C:\Users\nguye\Downloads\chatApp_new (2)\chatApp_new\server\server\obj\Debug\server.pdb
+D:\codeVS\MY\chatapp-updatechatbox\chatApp_new\server\server\bin\Debug\Database1.mdf
+D:\codeVS\MY\chatapp-updatechatbox\chatApp_new\server\server\bin\Debug\Database1_log.ldf
+D:\codeVS\MY\chatapp-updatechatbox\chatApp_new\server\server\bin\Debug\server.exe.config
+D:\codeVS\MY\chatapp-updatechatbox\chatApp_new\server\server\bin\Debug\server.exe
+D:\codeVS\MY\chatapp-updatechatbox\chatApp_new\server\server\bin\Debug\server.pdb
+D:\codeVS\MY\chatapp-updatechatbox\chatApp_new\server\server\obj\Debug\server.csproj.AssemblyReference.cache
+D:\codeVS\MY\chatapp-updatechatbox\chatApp_new\server\server\obj\Debug\server.csproj.SuggestedBindingRedirects.cache
+D:\codeVS\MY\chatapp-updatechatbox\chatApp_new\server\server\obj\Debug\server.Form1.resources
+D:\codeVS\MY\chatapp-updatechatbox\chatApp_new\server\server\obj\Debug\server.Properties.Resources.resources
+D:\codeVS\MY\chatapp-updatechatbox\chatApp_new\server\server\obj\Debug\server.csproj.GenerateResource.cache
+D:\codeVS\MY\chatapp-updatechatbox\chatApp_new\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+D:\codeVS\MY\chatapp-updatechatbox\chatApp_new\server\server\obj\Debug\server.exe
+D:\codeVS\MY\chatapp-updatechatbox\chatApp_new\server\server\obj\Debug\server.pdb
+D:\codeVS\MY\chatapp-6\chatApp_new\server\server\bin\Debug\Database1.mdf
+D:\codeVS\MY\chatapp-6\chatApp_new\server\server\bin\Debug\Database1_log.ldf
+D:\codeVS\MY\chatapp-6\chatApp_new\server\server\bin\Debug\server.exe.config
+D:\codeVS\MY\chatapp-6\chatApp_new\server\server\bin\Debug\server.exe
+D:\codeVS\MY\chatapp-6\chatApp_new\server\server\bin\Debug\server.pdb
+D:\codeVS\MY\chatapp-6\chatApp_new\server\server\obj\Debug\server.csproj.AssemblyReference.cache
+D:\codeVS\MY\chatapp-6\chatApp_new\server\server\obj\Debug\server.csproj.SuggestedBindingRedirects.cache
+D:\codeVS\MY\chatapp-6\chatApp_new\server\server\obj\Debug\server.Form1.resources
+D:\codeVS\MY\chatapp-6\chatApp_new\server\server\obj\Debug\server.Properties.Resources.resources
+D:\codeVS\MY\chatapp-6\chatApp_new\server\server\obj\Debug\server.csproj.GenerateResource.cache
+D:\codeVS\MY\chatapp-6\chatApp_new\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+D:\codeVS\MY\chatapp-6\chatApp_new\server\server\obj\Debug\server.exe
+D:\codeVS\MY\chatapp-6\chatApp_new\server\server\obj\Debug\server.pdb
+C:\Users\nguye\Downloads\chatApp_new (8)\chatApp_new\server\server\bin\Debug\Database1.mdf
+C:\Users\nguye\Downloads\chatApp_new (8)\chatApp_new\server\server\bin\Debug\Database1_log.ldf
+C:\Users\nguye\Downloads\chatApp_new (8)\chatApp_new\server\server\bin\Debug\server.exe.config
+C:\Users\nguye\Downloads\chatApp_new (8)\chatApp_new\server\server\bin\Debug\server.exe
+C:\Users\nguye\Downloads\chatApp_new (8)\chatApp_new\server\server\bin\Debug\server.pdb
+C:\Users\nguye\Downloads\chatApp_new (8)\chatApp_new\server\server\obj\Debug\server.csproj.AssemblyReference.cache
+C:\Users\nguye\Downloads\chatApp_new (8)\chatApp_new\server\server\obj\Debug\server.csproj.SuggestedBindingRedirects.cache
+C:\Users\nguye\Downloads\chatApp_new (8)\chatApp_new\server\server\obj\Debug\server.Form1.resources
+C:\Users\nguye\Downloads\chatApp_new (8)\chatApp_new\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\nguye\Downloads\chatApp_new (8)\chatApp_new\server\server\obj\Debug\server.csproj.GenerateResource.cache
+C:\Users\nguye\Downloads\chatApp_new (8)\chatApp_new\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\chatApp_new (8)\chatApp_new\server\server\obj\Debug\server.exe
+C:\Users\nguye\Downloads\chatApp_new (8)\chatApp_new\server\server\obj\Debug\server.pdb
+D:\codeVS\MY\crypto\chatApp_unfriend\chatApp_new\server\server\bin\Debug\Database1.mdf
+D:\codeVS\MY\crypto\chatApp_unfriend\chatApp_new\server\server\bin\Debug\Database1_log.ldf
+D:\codeVS\MY\crypto\chatApp_unfriend\chatApp_new\server\server\bin\Debug\server.exe.config
+D:\codeVS\MY\crypto\chatApp_unfriend\chatApp_new\server\server\bin\Debug\server.exe
+D:\codeVS\MY\crypto\chatApp_unfriend\chatApp_new\server\server\bin\Debug\server.pdb
+D:\codeVS\MY\crypto\chatApp_unfriend\chatApp_new\server\server\obj\Debug\server.csproj.AssemblyReference.cache
+D:\codeVS\MY\crypto\chatApp_unfriend\chatApp_new\server\server\obj\Debug\server.csproj.SuggestedBindingRedirects.cache
+D:\codeVS\MY\crypto\chatApp_unfriend\chatApp_new\server\server\obj\Debug\server.Form1.resources
+D:\codeVS\MY\crypto\chatApp_unfriend\chatApp_new\server\server\obj\Debug\server.Properties.Resources.resources
+D:\codeVS\MY\crypto\chatApp_unfriend\chatApp_new\server\server\obj\Debug\server.csproj.GenerateResource.cache
+D:\codeVS\MY\crypto\chatApp_unfriend\chatApp_new\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+D:\codeVS\MY\crypto\chatApp_unfriend\chatApp_new\server\server\obj\Debug\server.exe
+D:\codeVS\MY\crypto\chatApp_unfriend\chatApp_new\server\server\obj\Debug\server.pdb

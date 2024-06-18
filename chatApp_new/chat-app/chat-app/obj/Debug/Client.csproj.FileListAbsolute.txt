@@ -1,0 +1,256 @@
+D:\New folder\chat-app\chat-app\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\New folder\chat-app\chat-app\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+D:\New folder\chat-app\chat-app\obj\Debug\Client.Addfriend.resources
+D:\New folder\chat-app\chat-app\obj\Debug\Client.Chat.resources
+D:\New folder\chat-app\chat-app\obj\Debug\Client.Friend.resources
+D:\New folder\chat-app\chat-app\obj\Debug\Client.ListUser.resources
+D:\New folder\chat-app\chat-app\obj\Debug\Client.Menu.resources
+D:\New folder\chat-app\chat-app\obj\Debug\chat_app.Properties.Resources.resources
+D:\New folder\chat-app\chat-app\obj\Debug\Client.SignIn.resources
+D:\New folder\chat-app\chat-app\obj\Debug\Client.SignUp.resources
+D:\New folder\chat-app\chat-app\obj\Debug\Client.Profile.resources
+D:\New folder\chat-app\chat-app\obj\Debug\Client.csproj.GenerateResource.cache
+D:\New folder\chat-app\chat-app\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\New folder\chat-app\chat-app\obj\Debug\chat-app.exe
+D:\New folder\chat-app\chat-app\obj\Debug\chat-app.pdb
+D:\New folder\chat-app\chat-app\bin\Debug\chat-app.exe.config
+D:\New folder\chat-app\chat-app\bin\Debug\chat-app.exe
+D:\New folder\chat-app\chat-app\bin\Debug\chat-app.pdb
+D:\New folder\chatApp\chat-app\chat-app\bin\Debug\chat-app.exe.config
+D:\New folder\chatApp\chat-app\chat-app\bin\Debug\chat-app.exe
+D:\New folder\chatApp\chat-app\chat-app\bin\Debug\chat-app.pdb
+D:\New folder\chatApp\chat-app\chat-app\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\New folder\chatApp\chat-app\chat-app\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+D:\New folder\chatApp\chat-app\chat-app\obj\Debug\Client.Addfriend.resources
+D:\New folder\chatApp\chat-app\chat-app\obj\Debug\Client.Chat.resources
+D:\New folder\chatApp\chat-app\chat-app\obj\Debug\Client.Friend.resources
+D:\New folder\chatApp\chat-app\chat-app\obj\Debug\Client.ListUser.resources
+D:\New folder\chatApp\chat-app\chat-app\obj\Debug\Client.Menu.resources
+D:\New folder\chatApp\chat-app\chat-app\obj\Debug\chat_app.Properties.Resources.resources
+D:\New folder\chatApp\chat-app\chat-app\obj\Debug\Client.SignIn.resources
+D:\New folder\chatApp\chat-app\chat-app\obj\Debug\Client.SignUp.resources
+D:\New folder\chatApp\chat-app\chat-app\obj\Debug\Client.Profile.resources
+D:\New folder\chatApp\chat-app\chat-app\obj\Debug\Client.csproj.GenerateResource.cache
+D:\New folder\chatApp\chat-app\chat-app\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\New folder\chatApp\chat-app\chat-app\obj\Debug\chat-app.exe
+D:\New folder\chatApp\chat-app\chat-app\obj\Debug\chat-app.pdb
+D:\New folder\chatApp\chatApp\chat-app\chat-app\bin\Debug\chat-app.exe.config
+D:\New folder\chatApp\chatApp\chat-app\chat-app\bin\Debug\chat-app.exe
+D:\New folder\chatApp\chatApp\chat-app\chat-app\bin\Debug\chat-app.pdb
+D:\New folder\chatApp\chatApp\chat-app\chat-app\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\New folder\chatApp\chatApp\chat-app\chat-app\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+D:\New folder\chatApp\chatApp\chat-app\chat-app\obj\Debug\Client.Addfriend.resources
+D:\New folder\chatApp\chatApp\chat-app\chat-app\obj\Debug\Client.Chat.resources
+D:\New folder\chatApp\chatApp\chat-app\chat-app\obj\Debug\Client.Friend.resources
+D:\New folder\chatApp\chatApp\chat-app\chat-app\obj\Debug\Client.ListUser.resources
+D:\New folder\chatApp\chatApp\chat-app\chat-app\obj\Debug\Client.Menu.resources
+D:\New folder\chatApp\chatApp\chat-app\chat-app\obj\Debug\chat_app.Properties.Resources.resources
+D:\New folder\chatApp\chatApp\chat-app\chat-app\obj\Debug\Client.SignIn.resources
+D:\New folder\chatApp\chatApp\chat-app\chat-app\obj\Debug\Client.SignUp.resources
+D:\New folder\chatApp\chatApp\chat-app\chat-app\obj\Debug\Client.Profile.resources
+D:\New folder\chatApp\chatApp\chat-app\chat-app\obj\Debug\Client.csproj.GenerateResource.cache
+D:\New folder\chatApp\chatApp\chat-app\chat-app\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\New folder\chatApp\chatApp\chat-app\chat-app\obj\Debug\chat-app.exe
+D:\New folder\chatApp\chatApp\chat-app\chat-app\obj\Debug\chat-app.pdb
+D:\2\NT106\project\chat-app-my\chatApp\chatApp\chat-app\chat-app\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\2\NT106\project\chat-app-my\chatApp\chatApp\chat-app\chat-app\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+D:\2\NT106\project\chat-app-my\chatApp\chatApp\chat-app\chat-app\obj\Debug\chat-app.exe
+D:\2\NT106\project\chat-app-my\chatApp\chatApp\chat-app\chat-app\obj\Debug\chat-app.pdb
+D:\2\NT106\project\chat-app-my\chatApp\chat-app\chat-app\bin\Debug\chat-app.exe.config
+D:\2\NT106\project\chat-app-my\chatApp\chat-app\chat-app\bin\Debug\chat-app.exe
+D:\2\NT106\project\chat-app-my\chatApp\chat-app\chat-app\bin\Debug\chat-app.pdb
+D:\2\NT106\project\chat-app-my\chatApp\chat-app\chat-app\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\2\NT106\project\chat-app-my\chatApp\chat-app\chat-app\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+D:\2\NT106\project\chat-app-my\chatApp\chat-app\chat-app\obj\Debug\Client.Addfriend.resources
+D:\2\NT106\project\chat-app-my\chatApp\chat-app\chat-app\obj\Debug\Client.Chat.resources
+D:\2\NT106\project\chat-app-my\chatApp\chat-app\chat-app\obj\Debug\Client.Friend.resources
+D:\2\NT106\project\chat-app-my\chatApp\chat-app\chat-app\obj\Debug\Client.ListUser.resources
+D:\2\NT106\project\chat-app-my\chatApp\chat-app\chat-app\obj\Debug\Client.Menu.resources
+D:\2\NT106\project\chat-app-my\chatApp\chat-app\chat-app\obj\Debug\chat_app.Properties.Resources.resources
+D:\2\NT106\project\chat-app-my\chatApp\chat-app\chat-app\obj\Debug\Client.SignIn.resources
+D:\2\NT106\project\chat-app-my\chatApp\chat-app\chat-app\obj\Debug\Client.SignUp.resources
+D:\2\NT106\project\chat-app-my\chatApp\chat-app\chat-app\obj\Debug\Client.Profile.resources
+D:\2\NT106\project\chat-app-my\chatApp\chat-app\chat-app\obj\Debug\Client.csproj.GenerateResource.cache
+D:\2\NT106\project\chat-app-my\chatApp\chat-app\chat-app\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\2\NT106\project\chat-app-my\chatApp\chat-app\chat-app\obj\Debug\chat-app.exe
+D:\2\NT106\project\chat-app-my\chatApp\chat-app\chat-app\obj\Debug\chat-app.pdb
+C:\Users\nguye\Downloads\chatApp\chatApp\chat-app\chat-app\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\nguye\Downloads\chatApp\chatApp\chat-app\chat-app\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\nguye\Downloads\chatApp\chatApp\chat-app\chat-app\obj\Debug\chat-app.exe
+C:\Users\nguye\Downloads\chatApp\chatApp\chat-app\chat-app\obj\Debug\chat-app.pdb
+C:\Users\nguye\Downloads\chatApp\chatApp\chat-app\chat-app\bin\Debug\chat-app.exe.config
+C:\Users\nguye\Downloads\chatApp\chatApp\chat-app\chat-app\bin\Debug\chat-app.exe
+C:\Users\nguye\Downloads\chatApp\chatApp\chat-app\chat-app\bin\Debug\chat-app.pdb
+C:\Users\nguye\Downloads\chatApp\chatApp\chat-app\chat-app\obj\Debug\Client.Addfriend.resources
+C:\Users\nguye\Downloads\chatApp\chatApp\chat-app\chat-app\obj\Debug\Client.Chat.resources
+C:\Users\nguye\Downloads\chatApp\chatApp\chat-app\chat-app\obj\Debug\Client.Friend.resources
+C:\Users\nguye\Downloads\chatApp\chatApp\chat-app\chat-app\obj\Debug\Client.ListUser.resources
+C:\Users\nguye\Downloads\chatApp\chatApp\chat-app\chat-app\obj\Debug\Client.Menu.resources
+C:\Users\nguye\Downloads\chatApp\chatApp\chat-app\chat-app\obj\Debug\chat_app.Properties.Resources.resources
+C:\Users\nguye\Downloads\chatApp\chatApp\chat-app\chat-app\obj\Debug\Client.SignIn.resources
+C:\Users\nguye\Downloads\chatApp\chatApp\chat-app\chat-app\obj\Debug\Client.SignUp.resources
+C:\Users\nguye\Downloads\chatApp\chatApp\chat-app\chat-app\obj\Debug\Client.Profile.resources
+C:\Users\nguye\Downloads\chatApp\chatApp\chat-app\chat-app\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\nguye\Downloads\chatApp\chatApp\chat-app\chat-app\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\codeVS\MY\chatapp-1\chatApp\chat-app\chat-app\bin\Debug\chat-app.exe.config
+D:\codeVS\MY\chatapp-1\chatApp\chat-app\chat-app\bin\Debug\chat-app.exe
+D:\codeVS\MY\chatapp-1\chatApp\chat-app\chat-app\bin\Debug\chat-app.pdb
+D:\codeVS\MY\chatapp-1\chatApp\chat-app\chat-app\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\codeVS\MY\chatapp-1\chatApp\chat-app\chat-app\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+D:\codeVS\MY\chatapp-1\chatApp\chat-app\chat-app\obj\Debug\Client.Addfriend.resources
+D:\codeVS\MY\chatapp-1\chatApp\chat-app\chat-app\obj\Debug\Client.Chat.resources
+D:\codeVS\MY\chatapp-1\chatApp\chat-app\chat-app\obj\Debug\Client.Friend.resources
+D:\codeVS\MY\chatapp-1\chatApp\chat-app\chat-app\obj\Debug\Client.ListUser.resources
+D:\codeVS\MY\chatapp-1\chatApp\chat-app\chat-app\obj\Debug\Client.Menu.resources
+D:\codeVS\MY\chatapp-1\chatApp\chat-app\chat-app\obj\Debug\chat_app.Properties.Resources.resources
+D:\codeVS\MY\chatapp-1\chatApp\chat-app\chat-app\obj\Debug\Client.SignIn.resources
+D:\codeVS\MY\chatapp-1\chatApp\chat-app\chat-app\obj\Debug\Client.SignUp.resources
+D:\codeVS\MY\chatapp-1\chatApp\chat-app\chat-app\obj\Debug\Client.Profile.resources
+D:\codeVS\MY\chatapp-1\chatApp\chat-app\chat-app\obj\Debug\Client.csproj.GenerateResource.cache
+D:\codeVS\MY\chatapp-1\chatApp\chat-app\chat-app\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\codeVS\MY\chatapp-1\chatApp\chat-app\chat-app\obj\Debug\chat-app.exe
+D:\codeVS\MY\chatapp-1\chatApp\chat-app\chat-app\obj\Debug\chat-app.pdb
+D:\2\NT106\project\chat-app-my\chatApp_old\chat-app\chat-app\bin\Debug\chat-app.exe.config
+D:\2\NT106\project\chat-app-my\chatApp_old\chat-app\chat-app\bin\Debug\chat-app.exe
+D:\2\NT106\project\chat-app-my\chatApp_old\chat-app\chat-app\bin\Debug\chat-app.pdb
+D:\2\NT106\project\chat-app-my\chatApp_old\chat-app\chat-app\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\2\NT106\project\chat-app-my\chatApp_old\chat-app\chat-app\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+D:\2\NT106\project\chat-app-my\chatApp_old\chat-app\chat-app\obj\Debug\Client.Addfriend.resources
+D:\2\NT106\project\chat-app-my\chatApp_old\chat-app\chat-app\obj\Debug\Client.Chat.resources
+D:\2\NT106\project\chat-app-my\chatApp_old\chat-app\chat-app\obj\Debug\Client.Friend.resources
+D:\2\NT106\project\chat-app-my\chatApp_old\chat-app\chat-app\obj\Debug\Client.ListUser.resources
+D:\2\NT106\project\chat-app-my\chatApp_old\chat-app\chat-app\obj\Debug\Client.Menu.resources
+D:\2\NT106\project\chat-app-my\chatApp_old\chat-app\chat-app\obj\Debug\chat_app.Properties.Resources.resources
+D:\2\NT106\project\chat-app-my\chatApp_old\chat-app\chat-app\obj\Debug\Client.SignIn.resources
+D:\2\NT106\project\chat-app-my\chatApp_old\chat-app\chat-app\obj\Debug\Client.SignUp.resources
+D:\2\NT106\project\chat-app-my\chatApp_old\chat-app\chat-app\obj\Debug\Client.Profile.resources
+D:\2\NT106\project\chat-app-my\chatApp_old\chat-app\chat-app\obj\Debug\Client.csproj.GenerateResource.cache
+D:\2\NT106\project\chat-app-my\chatApp_old\chat-app\chat-app\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\2\NT106\project\chat-app-my\chatApp_old\chat-app\chat-app\obj\Debug\chat-app.exe
+D:\2\NT106\project\chat-app-my\chatApp_old\chat-app\chat-app\obj\Debug\chat-app.pdb
+C:\Users\nguye\Downloads\chatApp_old\chatApp_old\chat-app\chat-app\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\nguye\Downloads\chatApp_old\chatApp_old\chat-app\chat-app\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\nguye\Downloads\chatApp_old\chatApp_old\chat-app\chat-app\obj\Debug\chat-app.exe
+C:\Users\nguye\Downloads\chatApp_old\chatApp_old\chat-app\chat-app\obj\Debug\chat-app.pdb
+C:\Users\nguye\Downloads\chatApp_old\chatApp_old\chat-app\chat-app\bin\Debug\chat-app.exe.config
+C:\Users\nguye\Downloads\chatApp_old\chatApp_old\chat-app\chat-app\bin\Debug\chat-app.exe
+C:\Users\nguye\Downloads\chatApp_old\chatApp_old\chat-app\chat-app\bin\Debug\chat-app.pdb
+C:\Users\nguye\Downloads\chatApp_old\chatApp_old\chat-app\chat-app\obj\Debug\Client.Addfriend.resources
+C:\Users\nguye\Downloads\chatApp_old\chatApp_old\chat-app\chat-app\obj\Debug\Client.Chat.resources
+C:\Users\nguye\Downloads\chatApp_old\chatApp_old\chat-app\chat-app\obj\Debug\Client.Friend.resources
+C:\Users\nguye\Downloads\chatApp_old\chatApp_old\chat-app\chat-app\obj\Debug\Client.ListUser.resources
+C:\Users\nguye\Downloads\chatApp_old\chatApp_old\chat-app\chat-app\obj\Debug\Client.Menu.resources
+C:\Users\nguye\Downloads\chatApp_old\chatApp_old\chat-app\chat-app\obj\Debug\chat_app.Properties.Resources.resources
+C:\Users\nguye\Downloads\chatApp_old\chatApp_old\chat-app\chat-app\obj\Debug\Client.SignIn.resources
+C:\Users\nguye\Downloads\chatApp_old\chatApp_old\chat-app\chat-app\obj\Debug\Client.SignUp.resources
+C:\Users\nguye\Downloads\chatApp_old\chatApp_old\chat-app\chat-app\obj\Debug\Client.Profile.resources
+C:\Users\nguye\Downloads\chatApp_old\chatApp_old\chat-app\chat-app\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\nguye\Downloads\chatApp_old\chatApp_old\chat-app\chat-app\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\2\NT106\project\chat-app-my\chatApp_new\chat-app\chat-app\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\2\NT106\project\chat-app-my\chatApp_new\chat-app\chat-app\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+D:\2\NT106\project\chat-app-my\chatApp_new\chat-app\chat-app\obj\Debug\chat-app.exe
+D:\2\NT106\project\chat-app-my\chatApp_new\chat-app\chat-app\obj\Debug\chat-app.pdb
+D:\2\NT106\project\chat-app-my\chatApp_new\chat-app\chat-app\bin\Debug\chat-app.exe.config
+D:\2\NT106\project\chat-app-my\chatApp_new\chat-app\chat-app\bin\Debug\chat-app.exe
+D:\2\NT106\project\chat-app-my\chatApp_new\chat-app\chat-app\bin\Debug\chat-app.pdb
+D:\2\NT106\project\chat-app-my\chatApp_new\chat-app\chat-app\obj\Debug\Client.Addfriend.resources
+D:\2\NT106\project\chat-app-my\chatApp_new\chat-app\chat-app\obj\Debug\Client.Chat.resources
+D:\2\NT106\project\chat-app-my\chatApp_new\chat-app\chat-app\obj\Debug\Client.Friend.resources
+D:\2\NT106\project\chat-app-my\chatApp_new\chat-app\chat-app\obj\Debug\Client.ListUser.resources
+D:\2\NT106\project\chat-app-my\chatApp_new\chat-app\chat-app\obj\Debug\Client.Menu.resources
+D:\2\NT106\project\chat-app-my\chatApp_new\chat-app\chat-app\obj\Debug\chat_app.Properties.Resources.resources
+D:\2\NT106\project\chat-app-my\chatApp_new\chat-app\chat-app\obj\Debug\Client.SignIn.resources
+D:\2\NT106\project\chat-app-my\chatApp_new\chat-app\chat-app\obj\Debug\Client.SignUp.resources
+D:\2\NT106\project\chat-app-my\chatApp_new\chat-app\chat-app\obj\Debug\Client.Profile.resources
+D:\2\NT106\project\chat-app-my\chatApp_new\chat-app\chat-app\obj\Debug\Client.csproj.GenerateResource.cache
+D:\2\NT106\project\chat-app-my\chatApp_new\chat-app\chat-app\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\chatApp_new (2)\chatApp_new\chat-app\chat-app\bin\Debug\chat-app.exe.config
+C:\Users\nguye\Downloads\chatApp_new (2)\chatApp_new\chat-app\chat-app\bin\Debug\chat-app.exe
+C:\Users\nguye\Downloads\chatApp_new (2)\chatApp_new\chat-app\chat-app\bin\Debug\chat-app.pdb
+C:\Users\nguye\Downloads\chatApp_new (2)\chatApp_new\chat-app\chat-app\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\nguye\Downloads\chatApp_new (2)\chatApp_new\chat-app\chat-app\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\nguye\Downloads\chatApp_new (2)\chatApp_new\chat-app\chat-app\obj\Debug\Client.Addfriend.resources
+C:\Users\nguye\Downloads\chatApp_new (2)\chatApp_new\chat-app\chat-app\obj\Debug\Client.Chat.resources
+C:\Users\nguye\Downloads\chatApp_new (2)\chatApp_new\chat-app\chat-app\obj\Debug\Client.Friend.resources
+C:\Users\nguye\Downloads\chatApp_new (2)\chatApp_new\chat-app\chat-app\obj\Debug\Client.ListUser.resources
+C:\Users\nguye\Downloads\chatApp_new (2)\chatApp_new\chat-app\chat-app\obj\Debug\Client.Menu.resources
+C:\Users\nguye\Downloads\chatApp_new (2)\chatApp_new\chat-app\chat-app\obj\Debug\chat_app.Properties.Resources.resources
+C:\Users\nguye\Downloads\chatApp_new (2)\chatApp_new\chat-app\chat-app\obj\Debug\Client.SignIn.resources
+C:\Users\nguye\Downloads\chatApp_new (2)\chatApp_new\chat-app\chat-app\obj\Debug\Client.SignUp.resources
+C:\Users\nguye\Downloads\chatApp_new (2)\chatApp_new\chat-app\chat-app\obj\Debug\Client.Profile.resources
+C:\Users\nguye\Downloads\chatApp_new (2)\chatApp_new\chat-app\chat-app\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\nguye\Downloads\chatApp_new (2)\chatApp_new\chat-app\chat-app\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\chatApp_new (2)\chatApp_new\chat-app\chat-app\obj\Debug\chat-app.exe
+C:\Users\nguye\Downloads\chatApp_new (2)\chatApp_new\chat-app\chat-app\obj\Debug\chat-app.pdb
+D:\codeVS\MY\chatapp-updatechatbox\chatApp_new\chat-app\chat-app\bin\Debug\chat-app.exe.config
+D:\codeVS\MY\chatapp-updatechatbox\chatApp_new\chat-app\chat-app\bin\Debug\chat-app.exe
+D:\codeVS\MY\chatapp-updatechatbox\chatApp_new\chat-app\chat-app\bin\Debug\chat-app.pdb
+D:\codeVS\MY\chatapp-updatechatbox\chatApp_new\chat-app\chat-app\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\codeVS\MY\chatapp-updatechatbox\chatApp_new\chat-app\chat-app\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+D:\codeVS\MY\chatapp-updatechatbox\chatApp_new\chat-app\chat-app\obj\Debug\Client.Addfriend.resources
+D:\codeVS\MY\chatapp-updatechatbox\chatApp_new\chat-app\chat-app\obj\Debug\Client.Chat.resources
+D:\codeVS\MY\chatapp-updatechatbox\chatApp_new\chat-app\chat-app\obj\Debug\Client.Friend.resources
+D:\codeVS\MY\chatapp-updatechatbox\chatApp_new\chat-app\chat-app\obj\Debug\Client.ListUser.resources
+D:\codeVS\MY\chatapp-updatechatbox\chatApp_new\chat-app\chat-app\obj\Debug\Client.Menu.resources
+D:\codeVS\MY\chatapp-updatechatbox\chatApp_new\chat-app\chat-app\obj\Debug\chat_app.Properties.Resources.resources
+D:\codeVS\MY\chatapp-updatechatbox\chatApp_new\chat-app\chat-app\obj\Debug\Client.SignIn.resources
+D:\codeVS\MY\chatapp-updatechatbox\chatApp_new\chat-app\chat-app\obj\Debug\Client.SignUp.resources
+D:\codeVS\MY\chatapp-updatechatbox\chatApp_new\chat-app\chat-app\obj\Debug\Client.Profile.resources
+D:\codeVS\MY\chatapp-updatechatbox\chatApp_new\chat-app\chat-app\obj\Debug\Client.csproj.GenerateResource.cache
+D:\codeVS\MY\chatapp-updatechatbox\chatApp_new\chat-app\chat-app\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\codeVS\MY\chatapp-updatechatbox\chatApp_new\chat-app\chat-app\obj\Debug\chat-app.exe
+D:\codeVS\MY\chatapp-updatechatbox\chatApp_new\chat-app\chat-app\obj\Debug\chat-app.pdb
+D:\codeVS\MY\chatapp-6\chatApp_new\chat-app\chat-app\bin\Debug\chat-app.exe.config
+D:\codeVS\MY\chatapp-6\chatApp_new\chat-app\chat-app\bin\Debug\chat-app.exe
+D:\codeVS\MY\chatapp-6\chatApp_new\chat-app\chat-app\bin\Debug\chat-app.pdb
+D:\codeVS\MY\chatapp-6\chatApp_new\chat-app\chat-app\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\codeVS\MY\chatapp-6\chatApp_new\chat-app\chat-app\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+D:\codeVS\MY\chatapp-6\chatApp_new\chat-app\chat-app\obj\Debug\Client.Addfriend.resources
+D:\codeVS\MY\chatapp-6\chatApp_new\chat-app\chat-app\obj\Debug\Client.Chat.resources
+D:\codeVS\MY\chatapp-6\chatApp_new\chat-app\chat-app\obj\Debug\Client.Friend.resources
+D:\codeVS\MY\chatapp-6\chatApp_new\chat-app\chat-app\obj\Debug\Client.ListUser.resources
+D:\codeVS\MY\chatapp-6\chatApp_new\chat-app\chat-app\obj\Debug\Client.Menu.resources
+D:\codeVS\MY\chatapp-6\chatApp_new\chat-app\chat-app\obj\Debug\chat_app.Properties.Resources.resources
+D:\codeVS\MY\chatapp-6\chatApp_new\chat-app\chat-app\obj\Debug\Client.SignIn.resources
+D:\codeVS\MY\chatapp-6\chatApp_new\chat-app\chat-app\obj\Debug\Client.SignUp.resources
+D:\codeVS\MY\chatapp-6\chatApp_new\chat-app\chat-app\obj\Debug\Client.Profile.resources
+D:\codeVS\MY\chatapp-6\chatApp_new\chat-app\chat-app\obj\Debug\Client.csproj.GenerateResource.cache
+D:\codeVS\MY\chatapp-6\chatApp_new\chat-app\chat-app\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\codeVS\MY\chatapp-6\chatApp_new\chat-app\chat-app\obj\Debug\chat-app.exe
+D:\codeVS\MY\chatapp-6\chatApp_new\chat-app\chat-app\obj\Debug\chat-app.pdb
+C:\Users\nguye\Downloads\chatApp_new (8)\chatApp_new\chat-app\chat-app\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\nguye\Downloads\chatApp_new (8)\chatApp_new\chat-app\chat-app\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\nguye\Downloads\chatApp_new (8)\chatApp_new\chat-app\chat-app\obj\Debug\chat-app.exe
+C:\Users\nguye\Downloads\chatApp_new (8)\chatApp_new\chat-app\chat-app\obj\Debug\chat-app.pdb
+C:\Users\nguye\Downloads\chatApp_new (8)\chatApp_new\chat-app\chat-app\bin\Debug\chat-app.exe.config
+C:\Users\nguye\Downloads\chatApp_new (8)\chatApp_new\chat-app\chat-app\bin\Debug\chat-app.exe
+C:\Users\nguye\Downloads\chatApp_new (8)\chatApp_new\chat-app\chat-app\obj\Debug\Client.Addfriend.resources
+C:\Users\nguye\Downloads\chatApp_new (8)\chatApp_new\chat-app\chat-app\obj\Debug\Client.Chat.resources
+C:\Users\nguye\Downloads\chatApp_new (8)\chatApp_new\chat-app\chat-app\obj\Debug\Client.Friend.resources
+C:\Users\nguye\Downloads\chatApp_new (8)\chatApp_new\chat-app\chat-app\obj\Debug\Client.ListUser.resources
+C:\Users\nguye\Downloads\chatApp_new (8)\chatApp_new\chat-app\chat-app\obj\Debug\Client.Menu.resources
+C:\Users\nguye\Downloads\chatApp_new (8)\chatApp_new\chat-app\chat-app\obj\Debug\chat_app.Properties.Resources.resources
+C:\Users\nguye\Downloads\chatApp_new (8)\chatApp_new\chat-app\chat-app\obj\Debug\Client.SignIn.resources
+C:\Users\nguye\Downloads\chatApp_new (8)\chatApp_new\chat-app\chat-app\obj\Debug\Client.SignUp.resources
+C:\Users\nguye\Downloads\chatApp_new (8)\chatApp_new\chat-app\chat-app\obj\Debug\Client.Profile.resources
+C:\Users\nguye\Downloads\chatApp_new (8)\chatApp_new\chat-app\chat-app\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\nguye\Downloads\chatApp_new (8)\chatApp_new\chat-app\chat-app\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\chatApp_new (8)\chatApp_new\chat-app\chat-app\bin\Debug\chat-app.pdb
+D:\codeVS\MY\crypto\chatApp_unfriend\chatApp_new\chat-app\chat-app\bin\Debug\chat-app.exe.config
+D:\codeVS\MY\crypto\chatApp_unfriend\chatApp_new\chat-app\chat-app\bin\Debug\chat-app.exe
+D:\codeVS\MY\crypto\chatApp_unfriend\chatApp_new\chat-app\chat-app\bin\Debug\chat-app.pdb
+D:\codeVS\MY\crypto\chatApp_unfriend\chatApp_new\chat-app\chat-app\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\codeVS\MY\crypto\chatApp_unfriend\chatApp_new\chat-app\chat-app\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+D:\codeVS\MY\crypto\chatApp_unfriend\chatApp_new\chat-app\chat-app\obj\Debug\Client.Addfriend.resources
+D:\codeVS\MY\crypto\chatApp_unfriend\chatApp_new\chat-app\chat-app\obj\Debug\Client.Chat.resources
+D:\codeVS\MY\crypto\chatApp_unfriend\chatApp_new\chat-app\chat-app\obj\Debug\Client.Friend.resources
+D:\codeVS\MY\crypto\chatApp_unfriend\chatApp_new\chat-app\chat-app\obj\Debug\Client.ListUser.resources
+D:\codeVS\MY\crypto\chatApp_unfriend\chatApp_new\chat-app\chat-app\obj\Debug\Client.Menu.resources
+D:\codeVS\MY\crypto\chatApp_unfriend\chatApp_new\chat-app\chat-app\obj\Debug\chat_app.Properties.Resources.resources
+D:\codeVS\MY\crypto\chatApp_unfriend\chatApp_new\chat-app\chat-app\obj\Debug\Client.SignIn.resources
+D:\codeVS\MY\crypto\chatApp_unfriend\chatApp_new\chat-app\chat-app\obj\Debug\Client.SignUp.resources
+D:\codeVS\MY\crypto\chatApp_unfriend\chatApp_new\chat-app\chat-app\obj\Debug\Client.Profile.resources
+D:\codeVS\MY\crypto\chatApp_unfriend\chatApp_new\chat-app\chat-app\obj\Debug\Client.csproj.GenerateResource.cache
+D:\codeVS\MY\crypto\chatApp_unfriend\chatApp_new\chat-app\chat-app\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\codeVS\MY\crypto\chatApp_unfriend\chatApp_new\chat-app\chat-app\obj\Debug\chat-app.exe
+D:\codeVS\MY\crypto\chatApp_unfriend\chatApp_new\chat-app\chat-app\obj\Debug\chat-app.pdb
